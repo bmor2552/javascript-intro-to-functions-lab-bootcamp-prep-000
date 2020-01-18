@@ -17,6 +17,6 @@ if (string.toLowerCase){
   else if (string.toUpperCase){
     return "YES INDEED!"
   }
-  else if (string console.log("I love you, Grandma.")) 
+  else if console.log("I love you, Grandma.")
   return "I love you, too."
 }
