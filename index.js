@@ -17,3 +17,4 @@ if (string.toLowerCase){
 else if (string.toUpperCase()){
   return "YES INDEED!"
 }
+}
